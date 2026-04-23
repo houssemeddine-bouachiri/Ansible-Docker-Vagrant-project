@@ -1,7 +1,7 @@
 
 # Ansible Docker Playground
 
-A simple local development environment that demonstrates how to spin up a virtual machine with **Vagrant**, provision **Docker** using **Ansible**, and run containerized applications.
+A simple local development environment that demonstrates how to spin up virtual machines with **Vagrant**, provision **Docker** using **Ansible**, and run containerized applications.
 
 This was built as a learning project to showcase proficiency with Vagrant, Ansible, and Docker working together.
 
@@ -18,4 +18,4 @@ This is a personal learning project, but feel free to open issues or submit pull
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-**⭐ Star this repo if it helped you!**
+**Star this repo if it helped you!**
