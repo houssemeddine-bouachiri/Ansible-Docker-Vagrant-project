@@ -4,6 +4,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=flat)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A simple local development environment that demonstrates how to spin up virtual machines with **Vagrant**, provision **Docker** using **Ansible**, and run containerized applications.
 
